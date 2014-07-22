@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>system-shutdown.svg</file>
+        <file>text-x-install.svg</file>
+        <file>folder-drag-accept.svg</file>
+    </qresource>
+</RCC>
